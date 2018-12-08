@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\service_admin\\AndroidStudioProjects\\Test\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\service_admin\\AndroidStudioProjects\\Clase1_Calculadora\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\service_admin\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\service_admin\\AndroidStudioProjects\\Clase1_Calculadora\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\service_admin\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\service_admin\\AndroidStudioProjects\\Clase1_Calculadora\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -59,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\service_admin\\AndroidStudioProjects\\Test\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\service_admin\\AndroidStudioProjects\\Clase1_Calculadora\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
